@@ -6,18 +6,18 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto de Sistema de catalogação de modelos de veículos elétricos
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Luiza Lisboa do Nascimento
+* Danilo Santos Silva
+* Eduardo Lemos dos Santos
+* Mariane Pantana Alabarce
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabiano Costa Teixeira
 
 ## Instruções de utilização
 
