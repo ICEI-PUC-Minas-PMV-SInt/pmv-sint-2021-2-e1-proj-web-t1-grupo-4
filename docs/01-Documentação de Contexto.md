@@ -13,6 +13,10 @@ Atualmente, os futuros compradores, atuais donos de transportes elétricos e out
 
 ## Objetivos
 
+Este projeto tem por finalidade o desenvolvimento de uma aplicação web para catalogação dos diversos tipos de veículos elétricos já disponíveis no Brasil. 
+Objetivos específicos
+
+## Objetivos específicos
 
 
 ## Estado da Arte
