@@ -15,7 +15,7 @@ Atualmente, os futuros compradores, atuais donos de transportes elétricos e out
 
 Este projeto tem por finalidade o desenvolvimento de uma aplicação web para catalogação dos diversos tipos de veículos elétricos já disponíveis no Brasil. 
 
-Tem como objetivo específico:
+**Tem como objetivo específico:**
 
 - Permitir que o administrador faça o cadastramento e alterações necessárias nos modelos disponíveis.
 - Disponilizar uma ferramenta onde o usuário consiga filtrar funções variadas como: consumo, autonomia, entre outras.
