@@ -48,7 +48,7 @@ Nas pesquisas realizadas em buscadores na internet, foi possível notar uma lacu
  
 
   <tr>
-   <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/main/webmotors.jpg></td>
+   <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/main/webmotors.jpg"></td>
    <td width=500px>A imagem ao lado é referente ao site da Webmotors. Apresenta as características do carro em formato de lista.</td>
   </tr>
 
