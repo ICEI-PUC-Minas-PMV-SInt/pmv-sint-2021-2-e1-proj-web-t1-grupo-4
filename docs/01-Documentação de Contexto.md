@@ -64,6 +64,8 @@ Apesar de práticos, os dois websites carecem de mais especificação, padroniza
 
 Atualmente, nenhum dos portais com conteúdo sobre automóveis no Brasil possuem uma área específica para automóveis elétricos ou híbridos e tampouco incentivam o público a conhecer e possivelmente adquirir um exemplar desta categoria. Isso é muito prejudicial para o nosso país tanto ecologicamente quanto economicamente, pois nos coloca em uma posição de atraso em um mercado com crescimento absurdo em outros países. 
 
+Carros elétricos oferecem uma série de vantagens: são silenciosos, menos poluentes, seu consumo de energia é mais eficiente, os custos de manutenção mais reA falta de divulgação desse seguimento no Brasil contribui para o encarecimento do mesmo.
+
 ## Público-Alvo
 
 Pessoas do sexo masculino ou feminino, com idade a partir de 25 anos, ensino superior completo, alta renda, residentes em capitais e regiões metropolitanas que procuram carros elétricos onde ofereçam qualidade, segurança, conforto, estilo e custo-benefício.  
