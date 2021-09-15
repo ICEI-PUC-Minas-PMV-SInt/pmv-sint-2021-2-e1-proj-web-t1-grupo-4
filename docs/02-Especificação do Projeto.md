@@ -22,6 +22,45 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
+
+<table>
+<thead>
+  <tr>
+    <th>NOME/DESCRIÇÃO</th>
+    <th>COMPORTAMENTO</th>
+    <th>INCONVENIÊNCIAS</th>
+    <th>OBJETIVOS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Marina Diamante, 32 anos. Cantora internacional de pop e rock que gosta de admirar a paisagem e conhecer culturas diversas em diversos cantos do mundo quando não está em turnê.</td>
+    <td>Adora passar longas horas viajando de carro, porém se preocupa com o impacto que as viagens causam a natureza devido ao alto uso de combustíveis. Procura na internet informações de veículos elétricos com alta eficiência energética.</td>
+    <td>A preocupação da cliente é que existem diversos modelos de carro elétrico com fabricantes diferentes, porém não há praticidade para compará-los.</td>
+    <td>Pesquisar um modelo de carro elétrico para que a pessoa viaje com segurança, conforto, estilo, com o mínimo de impacto possível a natureza e que a bateria do veículo proporcione máxima eficiência energética.</td>
+  </tr>
+  <tr>
+    <td>Ariana Pantone, 29 anos. UX Designer. DJ e aspirante a publicitária nas horas vagas.
+</td>
+    <td>Gosta de animais e adora estudar ciências sociais para desmistificar o senso comum. Tem como hobby conhecer a cultura local nas diversas cidades do seu país.
+</td>
+    <td>Não encontrar uma plataforma com interface agradável e fácil de usar.</td>
+    <td>Obter informações sem perder muito tempo e que se tenha vontade de voltar ao site.</td>
+  </tr>
+  <tr>
+    <td>Lucas Fresta, 26 anos. Professor de História na UFMG. É desenvolvedor embarcado freelancer nas horas vagas.
+</td>
+    <td>Para Lucas, viajar nas férias é uma necessidade para explorar os lugares culturais que não conhece e aproveitar a culinária do local onde se está.
+</td>
+    <td>Por não ter conhecimento em automóveis, quer ter acesso a uma plataforma em que possa obter informações confiáveis para ter sua decisão final de compra.
+</td>
+    <td>Quer um carro durável, resistente, confortável e com desempenho energético eficaz.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
