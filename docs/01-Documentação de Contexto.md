@@ -57,7 +57,7 @@ Nas pesquisas realizadas em buscadores na internet, foi possível notar uma lacu
 </table>
 
 
-Apesar de práticos, os dois websites carecem de mais especificação, padronização e um meio interativo para que ocorra uma melhor conferência dos atributos do veículo fazendo com que a tomada de decisão pelo futuro comprador ocorra com facilidade e fluidez.
+Apesar de práticos, os dois websites carecem de mais especificação, padronização e um meio interativo para que ocorra uma melhor conferência dos atributos do veículo fazendo com que a tomada de decisão pelo futuro comprador ocorra com facilidade e fluidez.  
 
 
 ## Justificativa
