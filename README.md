@@ -1,12 +1,10 @@
-# TÍTULO DO PROJETO
+# Sistema de catalogação de modelos de veículos elétricos
 
-`CURSO`
+`CURSO` Tecnologia em Sistemas para Internet
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto: Aplicações Web
 
-`SEMESTRE`
-
-Projeto de Sistema de catalogação de modelos de veículos elétricos
+`SEMESTRE` 02-2021
 
 ## Integrantes
 
@@ -43,8 +41,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<a href="src/README.md"> Código Fonte</a>
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<a href="presentation/README.md"> Apresentação da solução</a>
