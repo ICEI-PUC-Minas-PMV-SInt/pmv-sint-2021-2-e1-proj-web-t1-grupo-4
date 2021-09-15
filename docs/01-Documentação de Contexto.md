@@ -21,8 +21,8 @@ Este projeto tem por finalidade o desenvolvimento de uma aplicação web para ca
 **Tem como objetivo específico:**
 
 - Permitir que o administrador faça o cadastramento e alterações necessárias nos modelos disponíveis.
-- Disponilizar uma ferramenta onde o usuário consiga filtrar funções variadas como: consumo, autonomia, entre outras.
-- Permitir que o usuário faça comparações entre os modelos cadastrados.
+- Disponilizar uma ferramenta onde o usuário consiga filtrar funções variadas como: consumo, autonomia, kilometragem, entre outras opções.
+- Permitir que o usuário faça comparações entre os modelos cadastrados, proporcionando a ele um contato mais próximo com essa nova tendência que ainda é novidade no Brasil.
 
 
 ## Estado da Arte
