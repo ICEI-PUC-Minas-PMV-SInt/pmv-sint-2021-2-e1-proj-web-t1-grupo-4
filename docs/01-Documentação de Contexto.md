@@ -64,7 +64,9 @@ Apesar de práticos, os dois websites carecem de mais especificação, padroniza
 
 Atualmente, nenhum dos portais com conteúdo sobre automóveis no Brasil possuem uma área específica para automóveis elétricos ou híbridos e tampouco incentivam o público a conhecer e possivelmente adquirir um exemplar desta categoria. Isso é muito prejudicial para o nosso país tanto ecologicamente quanto economicamente, pois nos coloca em uma posição de atraso em um mercado com crescimento absurdo em outros países. 
 
-Carros elétricos oferecem uma série de vantagens: são silenciosos, menos poluentes, seu consumo de energia é mais eficiente, os custos de manutenção mais reA falta de divulgação desse seguimento no Brasil contribui para o encarecimento do mesmo.
+Carros elétricos oferecem uma série de vantagens: são silenciosos, menos poluentes, seu consumo de energia é mais eficiente e os custos de manutenção bem menores. São veículos que por enquanto tem um custo muito acima da média de outros veículos populares. Porém com tantos benefícios, é de esperar que a adesão dos motoristas contribua para a queda nos valores. 
+
+Para que isso aconteça é necessário que haja uma divulgação expressiva. Uma vez que o mercado para esses veículos esteja menos restrito, montadoras e possíveis postos de recarga podem inclusice aproveitar nossa plataforma para expandir suas ações de marketing.
 
 ## Público-Alvo
 
