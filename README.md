@@ -41,8 +41,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-<a href="src/README.md"> Código Fonte</a>
+* <a href="src/README.md"> Código Fonte</a>
 
 # Apresentação
 
-<a href="presentation/README.md"> Apresentação da solução</a>
+* <a href="presentation/README.md"> Apresentação da solução</a>
