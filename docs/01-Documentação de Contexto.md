@@ -48,19 +48,13 @@ Nas pesquisas realizadas em buscadores na internet, foi possível notar uma lacu
  
 
   <tr>
-   <td><img src="https://i.ibb.co/N9BQCjv/image.png" width=500px></td>
-   <td width=500px>O GZN é uma revista de Porto Alegre - RS que no final de 2021 fez uma coletânea de eventos astrônomos que iriam ocorrer para visualização.</td>
+   <td><img src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/main/webmotors.jpg></td>
+   <td width=500px>A imagem ao lado é referente ao site da Webmotors. Apresenta as características do carro em formato de lista.</td>
   </tr>
 
  </tbody>
  
 </table>
-
-
-
-A imagem ao lado é referente ao site da Webmotors. 
-Apresenta as características do carro em formato de lista.
-
 
 
 	Apesar de práticos, os dois websites carecem de mais especificação, padronização e um meio interativo para que ocorra uma melhor conferência dos atributos do veículo fazendo com que a tomada de decisão pelo futuro comprador ocorra com facilidade e fluidez.
