@@ -41,14 +41,14 @@ Nas pesquisas realizadas em buscadores na internet, foi possível notar uma lacu
 
  <tbody>
   <tr>
-   <td><img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/raw/main/autopapo.jpg" width=500px></td>
+   <td><img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/raw/main/img/autopapo.jpg" width=500px></td>
    <td width=500px>A imagem ao lado é referente ao site Autopapo. Apresenta as características do carro em formato de lista.</td>
   </tr>
 
  
 
   <tr>
-   <td><img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/raw/main/webmotors.jpg" width=500px></td>
+   <td><img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/raw/main/img/webmotors.jpg" width=500px></td>
    <td width=500px>A imagem ao lado é referente ao site da Webmotors. Apresenta as características do carro em formato de lista.</td>
   </tr>
 
