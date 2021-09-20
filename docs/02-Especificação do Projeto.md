@@ -67,8 +67,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Cliente             | Desejo fazer um cadastro no site   | para utilizar todas funcionalidades disponíveis|
-|Cliente             | Desejo favoritar um veículo        | parar mantê-lo salvo no meu perfil     |
+|Cliente             | Desejo fazer um cadastro no site   | Para utilizar todas funcionalidades disponíveis|
+|Cliente             | Desejo favoritar um veículo        | Para mantê-lo salvo no meu perfil     |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
