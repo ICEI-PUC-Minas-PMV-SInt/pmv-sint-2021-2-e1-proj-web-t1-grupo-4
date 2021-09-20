@@ -63,13 +63,11 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Cliente             | Desejo fazer um cadastro no site   | Para utilizar todas as funcionalidades disponíveis|
+|Cliente             | Desejo fazer um cadastro no site   | Para utilizar todas funcionalidades disponíveis|
 |Cliente             | Desejo favoritar um veículo        | Para mantê-lo salvo no meu perfil     |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Cliente             | Comparar os componentes dos carros | Possibilitar a seleção do veículo que atenda melhor as minhas expectativas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
