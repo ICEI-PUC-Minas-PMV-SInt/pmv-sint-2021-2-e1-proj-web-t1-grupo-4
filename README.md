@@ -12,6 +12,7 @@
 * Danilo Santos Silva
 * Eduardo Lemos dos Santos
 * Mariane Pantana Alabarce
+* Alessandra dos Santos Silva
 
 ## Orientador
 
