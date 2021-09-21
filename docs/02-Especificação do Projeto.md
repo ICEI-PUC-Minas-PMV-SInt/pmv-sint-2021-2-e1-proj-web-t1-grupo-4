@@ -66,13 +66,14 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Cliente             | Desejo fazer um cadastro no site   | Para utilizar todas funcionalidades disponíveis|
+|Cliente             | Desejo fazer login no site         | Para acessar a minha página pessoal   |
 |Cliente             | Desejo favoritar um veículo        | Para mantê-lo salvo no meu perfil     |
 |Cliente             | Comparar os componentes dos carros | Possibilitar a seleção do veículo que atenda melhor as minhas expectativas |
 |Administrador       | Cadastrar carro                    | Disponibilizar as informações coletadas através de uma pesquisa para atender o público. |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Incluir imagens                    | Para que possíveis clientes vejam fotos dos veículos |
+|Administrador       | Apagar imagens                     | Para remover fotos antigas e que não façam parte do marketing atual|
+|Administrador       | Incluir videos                     | Para a adição do vídeo de marketing do veículo |
+|Administrador       | Apagar videos                      | Para a remoção de vídeos antigos e que não façam parte do marketing atual |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
