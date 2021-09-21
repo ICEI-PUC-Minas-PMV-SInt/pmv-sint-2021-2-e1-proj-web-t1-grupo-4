@@ -69,6 +69,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 |Cliente             | Desejo fazer login no site         | Para acessar a minha página pessoal   |
 |Cliente             | Desejo favoritar um veículo        | Para mantê-lo salvo no meu perfil     |
 |Cliente             | Comparar os componentes dos carros | Possibilitar a seleção do veículo que atenda melhor as minhas expectativas |
+|Cliente             | Desejo excluir o cadastro no site  | Para excluir meu cadastro pessoal do site      |
 |Administrador       | Cadastrar carro                    | Disponibilizar as informações coletadas através de uma pesquisa para atender o público. |
 |Administrador       | Editar cadastro do carro           | Editar as informações com dados mais recentes dos veículos |
 |Administrador       | Incluir imagens                    | Para que possíveis clientes vejam fotos dos veículos |
@@ -76,13 +77,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 |Administrador       | Incluir videos                     | Para a adição do vídeo de marketing do veículo |
 |Administrador       | Apagar videos                      | Para a remoção de vídeos antigos e que não façam parte do marketing atual |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Excluir cliente                    | Excluir cliente caso solicitado ou que infrinja as regras do site |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
