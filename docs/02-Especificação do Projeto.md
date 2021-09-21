@@ -68,7 +68,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 |Cliente             | Desejo fazer um cadastro no site   | Para utilizar todas funcionalidades disponíveis|
 |Cliente             | Desejo favoritar um veículo        | Para mantê-lo salvo no meu perfil     |
 |Cliente             | Comparar os componentes dos carros | Possibilitar a seleção do veículo que atenda melhor as minhas expectativas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Cadastrar carro                    | Disponibilizar as informações coletadas através de uma pesquisa para atender o público. |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
