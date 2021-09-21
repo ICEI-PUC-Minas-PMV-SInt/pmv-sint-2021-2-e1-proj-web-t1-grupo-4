@@ -70,6 +70,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 |Cliente             | Desejo favoritar um veículo        | Para mantê-lo salvo no meu perfil     |
 |Cliente             | Comparar os componentes dos carros | Possibilitar a seleção do veículo que atenda melhor as minhas expectativas |
 |Administrador       | Cadastrar carro                    | Disponibilizar as informações coletadas através de uma pesquisa para atender o público. |
+|Administrador       | Editar cadastro do carro           | Editar as informações com dados mais recentes dos veículos |
 |Administrador       | Incluir imagens                    | Para que possíveis clientes vejam fotos dos veículos |
 |Administrador       | Apagar imagens                     | Para remover fotos antigas e que não façam parte do marketing atual|
 |Administrador       | Incluir videos                     | Para a adição do vídeo de marketing do veículo |
