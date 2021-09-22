@@ -98,6 +98,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-003| O sistema deve permitir cadastrar, alterar e excluir informações sobre veículos elétricos   | MÉDIA |
+|RF-004| O sistema deve permitir cadastrar, alterar e excluir imagens e vídeos dos veículos   | MÉDIA |
+|RF-005| O sistema deve permitir comparar todos os recursos e funções dos veículos   | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -106,6 +109,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| O sistema deve rodar em diversos tipos de navegadores |  MÉDIA | 
+|RNF-004| O sistema deve solicitar autenticação de usuário e senha para acesso do administrador |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
