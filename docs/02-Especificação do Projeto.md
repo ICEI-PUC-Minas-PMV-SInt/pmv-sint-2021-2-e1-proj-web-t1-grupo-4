@@ -112,12 +112,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| O sistema deve rodar em diversos tipos de navegadores |  MÉDIA | 
 |RNF-004| O sistema deve ser intuitivo e de fácil compreensão ao usuário |  MÉDIA | 
 |RNF-005| O sistema deve ficar no ar 24h |  MÉDIA | 
-|RNF-005| O sistema não apresentará aos usuários quaisquer dados de cunho privativo |  MÉDIA | 
+|RNF-006| O sistema não apresentará aos usuários quaisquer dados de cunho privativo |  MÉDIA | 
+|RNF-007| O sistema deve ter certificação de segurança |  MÉDIA | 
+|RNF-008| O sistema deve usar PostgreSQL para salvar dados de cadastro |  MÉDIA | 
 
 
 o sistema não apresentará aos usuários quaisquer dados de cunho privativo
