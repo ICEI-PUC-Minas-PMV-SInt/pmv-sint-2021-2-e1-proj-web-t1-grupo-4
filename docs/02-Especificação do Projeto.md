@@ -115,8 +115,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| O sistema deve rodar em diversos tipos de navegadores |  MÉDIA | 
-|RNF-004|O sistema deve ser de fácil compreensão do usuário |  MÉDIA | 
+|RNF-004| O sistema deve ser intuitivo e de fácil compreensão ao usuário |  MÉDIA | 
 |RNF-005| O sistema deve ficar no ar 24h |  MÉDIA | 
+|RNF-005| O sistema não apresentará aos usuários quaisquer dados de cunho privativo |  MÉDIA | 
+
+
+o sistema não apresentará aos usuários quaisquer dados de cunho privativo
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
