@@ -101,6 +101,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| O sistema deve permitir cadastrar, alterar e excluir informações sobre veículos elétricos   | MÉDIA |
 |RF-004| O sistema deve permitir cadastrar, alterar e excluir imagens e vídeos dos veículos   | MÉDIA |
 |RF-005| O sistema deve permitir comparar todos os recursos e funções dos veículos   | MÉDIA |
+|RF-005| O sistema deve permitir buscar os veículos por palavra-chave   | MÉDIA |
+|RF-006| O sistema deve permitir o cadastro e a exclusão de usuários | ALTA | 
+|RF-007| O sistema deve permitir a recuperação de login | ALTA |
+|RF-008| O sistema deve permitir que o usuário escolha e favorite o carro desejado  | MÉDIA |
+
 
 
 ### Requisitos não Funcionais
@@ -110,7 +115,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| O sistema deve rodar em diversos tipos de navegadores |  MÉDIA | 
-|RNF-004| O sistema deve solicitar autenticação de usuário e senha para acesso do administrador |  MÉDIA | 
+|RNF-004|O sistema deve ser de fácil compreensão do usuário |  MÉDIA | 
+|RNF-005| O sistema deve ficar no ar 24h |  MÉDIA | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
