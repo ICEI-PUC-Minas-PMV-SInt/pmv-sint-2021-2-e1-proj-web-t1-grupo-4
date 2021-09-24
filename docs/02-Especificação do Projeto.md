@@ -103,7 +103,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| O sistema deve permitir o cadastro e a exclusão de usuários | ALTA | 
 |RF-006| O sistema deve permitir a recuperação de login | ALTA |
 |RF-007| O sistema deve permitir que o usuário escolha e favorite o carro desejado  | MÉDIA |
-|RF-008| O sistema deve permitir que o usuário busque por veículos utilizando filtros | MËDIA |
+|RF-008| O sistema deve permitir que o usuário busque por veículos utilizando filtros | MÉDIA |
 
 
 
@@ -120,7 +120,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-007| O sistema deve ter certificação de segurança |  MÉDIA | 
 |RNF-008| O sistema deve usar PostgreSQL para salvar dados de cadastro |  MÉDIA | 
 |RNF-009| O sistema deve ter ferramenta de análise de dados com o Plausable Analytics |  BAIXA | 
-|RNF-010| O sistema deve respeitar as boas práticas de acessibilidade | MËDIA
+|RNF-010| O sistema deve respeitar as boas práticas de acessibilidade | MÉDIA
 
 
 o sistema não apresentará aos usuários quaisquer dados de cunho privativo
