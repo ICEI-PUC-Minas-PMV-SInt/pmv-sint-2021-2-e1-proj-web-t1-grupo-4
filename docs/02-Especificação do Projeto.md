@@ -120,6 +120,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-007| O sistema deve ter certificação de segurança |  MÉDIA | 
 |RNF-008| O sistema deve usar PostgreSQL para salvar dados de cadastro |  MÉDIA | 
 |RNF-009| O sistema deve ter ferramenta de análise de dados com o Plausable Analytics |  BAIXA | 
+|RNF-010| O sistema deve respeitar as boas práticas de acessibilidade | MËDIA
 
 
 o sistema não apresentará aos usuários quaisquer dados de cunho privativo
