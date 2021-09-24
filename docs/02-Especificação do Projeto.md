@@ -96,15 +96,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| O sistema deve permitir cadastrar, alterar e excluir informações sobre veículos elétricos   | MÉDIA |
-|RF-004| O sistema deve permitir cadastrar, alterar e excluir imagens e vídeos dos veículos   | MÉDIA |
-|RF-005| O sistema deve permitir comparar todos os recursos e funções dos veículos   | MÉDIA |
-|RF-005| O sistema deve permitir buscar os veículos por palavra-chave   | MÉDIA |
-|RF-006| O sistema deve permitir o cadastro e a exclusão de usuários | ALTA | 
-|RF-007| O sistema deve permitir a recuperação de login | ALTA |
-|RF-008| O sistema deve permitir que o usuário escolha e favorite o carro desejado  | MÉDIA |
+|RF-001| O sistema deve permitir cadastrar, alterar e excluir informações sobre veículos elétricos   | MÉDIA |
+|RF-002| O sistema deve permitir cadastrar, alterar e excluir imagens e vídeos dos veículos   | MÉDIA |
+|RF-003| O sistema deve permitir comparar todos os recursos e funções dos veículos   | MÉDIA |
+|RF-004| O sistema deve permitir buscar os veículos por palavra-chave   | MÉDIA |
+|RF-005| O sistema deve permitir o cadastro e a exclusão de usuários | ALTA | 
+|RF-006| O sistema deve permitir a recuperação de login | ALTA |
+|RF-007| O sistema deve permitir que o usuário escolha e favorite o carro desejado  | MÉDIA |
+|RF-008| O sistema deve permitir que o usuário busque por veículos utilizando filtros | MËDIA |
 
 
 
