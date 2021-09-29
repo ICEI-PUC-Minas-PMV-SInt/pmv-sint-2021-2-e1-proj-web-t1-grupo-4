@@ -38,7 +38,7 @@ etiquetas:
 - `Eduardo Lemos dos Santos `
 - `Ana Luiza Lisboa do Nascimento`
 - `Alessandra`
-- 
+
 **Scrum Master / Developer**
 - `Danilo Santos Silva`
 
