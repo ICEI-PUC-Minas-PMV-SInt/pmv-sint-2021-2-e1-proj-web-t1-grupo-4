@@ -1,9 +1,7 @@
 
 # Metodologia
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Todo o processo será feito pela própria ferramenta de gerenciamento do git hub.
+  
+No desenvolvimento do projeto escolhemos utilizar o SCRUM, criado pelos desenvolvedores Ken Schwaber e Jeff Sutherland, que é uma metodologia de gerenciamento de projetos ágeis. Optamos por esta metodologia como forma de aumentar a eficiência do grupo, pois ela tem como base equipes pequenas, auto-organizáveis, ou seja, com autonomia e sem a necessidade de supervisão e além disso, as iterações são curtas, este fator foi decisivo na escolha pois a entrega de tarefas ocorrem em tempos definidos e de pequena duração.
 
 ## Controle de Versão
 
@@ -31,16 +29,16 @@ etiquetas:
 ### Divisão de Papéis
 
 **Product Owner**
-- `Fabiano Costa Teixeira`
+- Fabiano Costa Teixeira
 
 **UX/UI / Developer**
-- `Mariane Pantana Alabarce`
-- `Eduardo Lemos dos Santos `
-- `Ana Luiza Lisboa do Nascimento`
-- `Alessandra`
+- Mariane Pantana Alabarce
+- Eduardo Lemos dos Santos 
+- Ana Luiza Lisboa do Nascimento
+- Alessandra
 
 **Scrum Master / Developer**
-- `Danilo Santos Silva`
+- Danilo Santos Silva
 
 ### Processo
 
