@@ -35,7 +35,8 @@ etiquetas:
 - Mariane Pantana Alabarce
 - Eduardo Lemos dos Santos 
 - Ana Luiza Lisboa do Nascimento
-- Alessandra
+- Alessandra dos Santos 
+- Silva
 
 **Scrum Master / Developer**
 - Danilo Santos Silva
