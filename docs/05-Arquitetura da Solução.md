@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+Baseada na estrutura web cliente/servidor. Essa comunicação entre clientes e servidores é feita através da internet pelo protocolo HTTP que é o protocolo base.
 
 ## Diagrama de componentes
 
