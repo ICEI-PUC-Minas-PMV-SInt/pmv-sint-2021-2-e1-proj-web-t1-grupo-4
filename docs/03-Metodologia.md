@@ -35,22 +35,17 @@ etiquetas:
 - Mariane Pantana Alabarce
 - Eduardo Lemos dos Santos 
 - Ana Luiza Lisboa do Nascimento
-- Alessandra dos Santos 
-- Silva
+- Alessandra dos Santos Silva
 
 **Scrum Master / Developer**
 - Danilo Santos Silva
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Semanalmente realizamos duas reuniões, chamadas de Sprint Planning Meeting, para alinhar o andamento do projeto e planejar a sprint utilizando o Microsoft Teams. Nesses encontros são definidos, pelo Product Owner, os objetivos e necessidades (Product Backlog) a serem entregues ao final da outra semana priorizados de acordo sua necessidade.   
+A partir do que for solicitado no Product Backlog, é criada a Sprint Backlog, que descreve o que deverá ser posto em prática. Para realizar essa etapa escolhemos utilizar o Trello como ferramenta de gerenciamento devido à sua facilidade de uso e de cooperação, no qual a equipe pode definir a divisão de responsabilidades e cada um pode visualizar as tarefas atribuídas a si com prioridades para a semana. Após a conclusão desta etapa, é feita a reunião de revisão da sprint, onde é entregue ao Product Owner tudo o que foi produzido ao longo da rodada.
 
+ 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
