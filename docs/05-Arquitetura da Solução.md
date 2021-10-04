@@ -55,7 +55,7 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![SISCAMOVEL User Flow](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/raw/main/img/siscamovel-userflow.jpg)
 
 
 ## Tecnologias Utilizadas
