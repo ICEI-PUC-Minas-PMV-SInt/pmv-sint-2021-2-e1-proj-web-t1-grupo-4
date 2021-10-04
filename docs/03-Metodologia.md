@@ -52,7 +52,7 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código: VS Code
 - Ferramentas de comunicação: Whatsapp, Teams e Trello
-- Ferramentas de desenho de tela (_wireframing_): Figma
+- Ferramentas de desenho de tela (_wireframing_): Figma, Photoshop
 
 O editor de código foi escolhido porque ele possui facilidade de integração com tecnologias como HTML5, CSS E javascript.  
 As ferramentas de comunicação foram escolhidas pela facilidade de acesso de todos
