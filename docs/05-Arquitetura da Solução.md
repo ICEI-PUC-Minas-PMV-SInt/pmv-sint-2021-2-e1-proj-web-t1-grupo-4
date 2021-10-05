@@ -67,7 +67,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O produto será hospedado na plataforma Heroku.
 
 > **Links Úteis**:
 >
