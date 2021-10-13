@@ -1,38 +1,106 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles/style.css">
-    <title>Siscamóvel</title>
-</head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Sistema de Catalogação para Veículos Elétricos</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela+Round">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/style.css">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script>
+// Prevent dropdown menu from closing when click inside the form
+$(document).on("click", ".action-buttons .dropdown-menu", function(e){
+	e.stopPropagation();
+});
+</script>
+</head> 
 <body>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col">
-                <h1 id="hello">Hello, world!</h1>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<a href="#" class="navbar-brand"><img src="img/Logo.svg"></a>  		
+	<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<!-- Collection of nav links, forms, and other content for toggling -->
+	<div id="navbarCollapse" class="collapse navbar-collapse justify-content-start">
+		<div class="navbar-nav">
+			<a href="#" class="nav-item nav-link">Home</a>
+			<a href="#" class="nav-item nav-link">Quem Somos</a>			
+			<!--
+      <div class="nav-item dropdown">
+				<a href="#" data-toggle="dropdown" class="nav-item nav-link dropdown-toggle">Services</a>
+				<div class="dropdown-menu">					
+					<a href="#" class="dropdown-item">Web Design</a>
+					<a href="#" class="dropdown-item">Web Development</a>
+					<a href="#" class="dropdown-item">Graphic Design</a>
+					<a href="#" class="dropdown-item">Digital Marketing</a>
+                </div>
             </div>
-            <div class="col">
-                <p id="demo"></p>
-                <button id="btn" onclick="change()" type="button" class="btn btn-primary">Clica Aqui</button>
-            </div>
-            <div class="col">
-                <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-                      Dropdown button
-                    </button>
-                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                      <li><a class="dropdown-item" href="#">Action</a></li>
-                      <li><a class="dropdown-item" href="#">Another action</a></li>
-                      <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
-                  </div>
-            </div>
-          </div>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-    <script src="scripts/script.js"></script>
+      -->
+      
+			<a href="#" class="nav-item nav-link">Fale Conosco</a>
+		</div>
+		<form class="navbar-form form-inline">
+			<div class="input-group search-box">								
+				<input type="text" id="search" class="form-control" placeholder="Buscar...">
+				<div class="input-group-append">
+					<span class="input-group-text">
+						<i class="material-icons">&#xE8B6;</i>
+					</span>
+				</div>
+			</div>
+		</form>
+		<div class="navbar-nav ml-auto action-buttons">
+			<div class="nav-item dropdown">
+				<a href="#" data-toggle="dropdown" class="nav-link dropdown-toggle mr-4">Login</a>
+                <div class="dropdown-menu action-form">
+					<form action="/examples/actions/confirmation.php" method="post">
+						<p class="hint-text">Entre com sua rede social</p>
+						<div class="form-group social-btn clearfix">
+							<a href="#" class="btn btn-secondary facebook-btn float-left"><i class="fa fa-facebook"></i> Facebook</a>
+							<a href="#" class="btn btn-secondary google-btn float-right"><i class="fa fa-google"></i> Google</a>
+						</div>
+						<div class="or-seperator"><b>or</b></div>
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Usuário" required="required">
+						</div>
+						<div class="form-group">
+							<input type="password" class="form-control" placeholder="Senha" required="required">
+						</div>
+						<input type="submit" class="btn btn-primary btn-block" value="Login">
+						<div class="text-center mt-2">
+							<a href="#">Esqueceu sua senha?</a>
+						</div>
+					</form>
+                </div>
+			</div>
+			<div class="nav-item dropdown">
+				<a href="#" data-toggle="dropdown" class="btn btn-primary dropdown-toggle sign-up-btn">Criar Conta</a>
+                <div class="dropdown-menu action-form">
+					<form action="/examples/actions/confirmation.php" method="post">
+						<p class="hint-text">Preencha este formulário para criar sua conta!</p>
+						<div class="form-group">
+							<input type="text" class="form-control" placeholder="Usuário" required="required">
+						</div>
+						<div class="form-group">
+							<input type="password" class="form-control" placeholder="Senha" required="required">
+						</div>
+						<div class="form-group">
+							<input type="password" class="form-control" placeholder="Confirme a Senha" required="required">
+						</div>
+						<div class="form-group">
+							<label class="form-check-label"><input type="checkbox" required="required"> Eu aceito os <a href="#">Termos &amp; Condições</a></label>
+						</div>
+						<input type="submit" class="btn btn-primary btn-block" value="Criar Conta">
+					</form>
+				</div>
+			</div>
+        </div>
+	</div>
+</nav>
 </body>
 </html>
