@@ -1,5 +1,8 @@
 body {
 	font-family: 'Varela Round', sans-serif;
+	background-image: url(/src/img/background_img.png);
+	background-size: 100%;
+	
 }
 .form-control {
 	box-shadow: none;		
@@ -108,11 +111,11 @@ body {
 	color: #fff;
 	background: #579b3f !important;
 }
-.navbar .social-btn .btn, .navbar .social-btn .btn:hover {
+.social-btn .btn, .navbar .social-btn .btn:hover {
 	color: #fff;
 	margin: 0;
 	padding: 0 !important;
-	font-size: 13px;
+	font-size: 16px;
 	border: none;
 	transition: all 0.4s;
 	text-align: center;
@@ -120,19 +123,19 @@ body {
 	width: 47%;
 	text-decoration: none;
 }
-.navbar .social-btn .facebook-btn {
+.facebook-btn {
 	background: #507cc0;
 }
-.navbar .social-btn .facebook-btn:hover {
+.facebook-btn:hover {
 	background: #4676bd;
 }
-.navbar .social-btn .google-btn {
+.google-btn {
 	background: #e3271d;
 }
-.navbar .social-btn .google-btn:hover {
+.google-btn:hover {
 	background: #d4241b;
 }
-.navbar .social-btn .btn i {
+.social-btn .btn i {
 	margin-right: 5px;
 	font-size: 16px;
 	position: relative;
@@ -186,3 +189,22 @@ body {
 		width: 100%;
 	}
 }
+.formlogin{
+width: 30%;
+margin-right: auto;
+margin-left: auto;
+
+}
+
+.sectionlogin {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+}
+
+.cablogin {
+    text-align: center;
+	text-color:
+    margin-bottom: 15px;
+    font-size: 20px;

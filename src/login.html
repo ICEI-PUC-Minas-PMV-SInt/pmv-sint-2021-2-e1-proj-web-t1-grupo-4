@@ -55,10 +55,8 @@ $(document).on("click", ".action-buttons .dropdown-menu", function(e){
 			</div>
 		</form>
 		<div class="navbar-nav ml-auto action-buttons">
-			<div class="navbar-nav">
-				<a href="./login.html" class="nav-item nav-link">Login</a>         
-			</div>
-
+			
+		
 			<div class="nav-item dropdown">
 				<a href="#" data-toggle="dropdown" class="btn btn-primary dropdown-toggle sign-up-btn">Criar Conta</a>
                 <div class="dropdown-menu action-form">
@@ -83,5 +81,50 @@ $(document).on("click", ".action-buttons .dropdown-menu", function(e){
         </div>
 	</div>
 </nav>
+
+<!---->
+<section class ="sectionlogin">
+
+                 <div class="formlogin">
+                <form action="/examples/actions/confirmation.php" method="post">
+                    <p class="cablogin">Entre com sua rede social</p>
+                    <div class="form-group social-btn clearfix">
+                        <a href="#" class="btn btn-secondary facebook-btn float-left"><i class="fa fa-facebook"></i> Facebook</a>
+                        <a href="#" class="btn btn-secondary google-btn float-right"><i class="fa fa-google"></i> Google</a>
+                    </div>
+                    <div class="or-seperator"><b>or</b></div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Usuário" required="required">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" placeholder="Senha" required="required">
+                    </div>
+                    <input type="submit" class="btn btn-primary btn-block" value="Login">
+                    <div class="text-center mt-2">
+                        <a href="#">Esqueceu sua senha?</a>
+                    </div>
+                </form>
+            </div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
 </body>
 </html>
