@@ -32,6 +32,21 @@ body {
     color: #FA003F;
 }
 
+.bi-eye {
+	position: absolute;
+	top: 1px;
+	padding-top: 8.75rem;
+	right: 1.875rem;
+	cursor: pointer;
+}
+.bi-eye-slash {
+	position: absolute;
+	top: 1px;
+	padding-top: 8.75rem;
+	right: 1.875rem;
+	cursor: pointer;
+}
+
 /*
 * SISCAMOVEL customizations
 * (Fontes)
