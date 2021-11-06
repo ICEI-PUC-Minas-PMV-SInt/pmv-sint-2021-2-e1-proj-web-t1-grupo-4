@@ -2,7 +2,7 @@
 let logado = document.getElementById('logado');
 let userLogado = JSON.parse(localStorage.getItem('userLogado'));
 
-logado.innerHTML = `Olá ${userLogado.usuario}`;
+logado.innerHTML = `Olá, ${userLogado.usuario}. Seja bem vindo!`;
 
 if(localStorage.getItem('token') == null) {
     alert('Você precisa estar logado para acessar esta página!');
@@ -13,5 +13,5 @@ if(localStorage.getItem('token') == null) {
 function sair() {
     localStorage.removeItem('token');
     localStorage.removeItem('userLogado');
-    location.href = "./pages/login.html";
+    location.href = "./login.html";
 }

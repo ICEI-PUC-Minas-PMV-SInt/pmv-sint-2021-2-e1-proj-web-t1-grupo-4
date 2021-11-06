@@ -114,7 +114,7 @@ function cadastrar() {
         msgError.innerHTML = '';
 
         setTimeout(() => {
-            location.href = './pages/login.html';
+            location.href = './login.html';
         }, 3000);
 
     } else {
