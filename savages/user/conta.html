@@ -45,19 +45,19 @@
                 <div class="mb-3 row">
                         <label for="staticEmail" class="col-sm-2 col-form-label">nome</label>
                         <div class="col-sm-10">
-                            <input type="text" class="form-control" id="name" placeholder="Karl Marx" readonly>
+                            <input type="text" class="form-control" id="name" placeholder="Karl Marx" value="Mariane Alabarce" readonly>
                         </div>
                 </div>
                 <div class="mb-3 row">
                     <label for="staticEmail" class="col-sm-2 col-form-label">e-mail</label>
                     <div class="col-sm-10">
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="karl@marx.de" readonly>
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="karl@marx.de" value="mariane@diamandis.uk" readonly>
                     </div>
                 </div>
                 <div class="mb-3 row">
                     <label for="inputPassword" class="col-sm-2 col-form-label">senha</label>
                     <div class="col-sm-10">
-                        <input type="password" class="form-control" id="inputPassword" readonly>
+                        <input type="password" class="form-control" id="inputPassword" value="Mar1naSav@g\-_s" readonly>
                     </div>
                 </div>
 
@@ -65,8 +65,8 @@
 
                 <div class="mb-3 row">
                     <div class="d-grid gap-2 col-12 mx-auto">
-                        <button class="btn btn-outline-primary" type="button">editar dados</button>
-                        <button class="btn btn-outline-danger" type="button">excluir conta</button>
+                        <button class="btn btn-outline-primary" type="button" data-bs-toggle="modal" data-bs-target="#editarCadastro">editar dados</button>
+                        <button class="btn btn-outline-danger" type="button" data-bs-toggle="modal" data-bs-target="#confirmarExclusaoConta">excluir conta</button>
                     </div>
                 </div>
             </div>
@@ -80,6 +80,98 @@
             <p class="text-center fw-bolder">Made with <i class="bi bi-heart-fill"></i> by ADAMED</p>
         </div>
     </footer>
+
+    <!-- Trigger de modais -->
+    <!-- edição de cadastro -->
+    <div class="modal fade" id="editarCadastro" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="staticBackdropLabel">cadastro</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="mb-3 row">
+                        <label for="nomePessoa" class="col-sm-2 col-form-label">nome</label>
+                        <div class="col-sm-10">
+                            <input type="hidden" class="form-control" id="peopleID" readonly>
+                            <input type="text" class="form-control" id="nomePessoa" placeholder="Karl Marx" value="Mariane Alabarce" required>
+                        </div>
+                    </div>
+                    <div class="mb-3 row">
+                        <label for="emailPessoa" class="col-sm-2 col-form-label">e-mail</label>
+                        <div class="col-sm-10">
+                            <input type="email" class="form-control" id="emailPessoa" placeholder="karl@marx.de" value="mariane@diamandis.uk" required>
+                        </div>
+                    </div>
+                    <div class="mb-3 row">
+                        <label for="senhaPessoa" class="col-sm-2 col-form-label">senha</label>
+                        <div class="col-sm-10">
+                            <input type="password" class="form-control" id="senhaPessoa" value="Mar1naSav@g\-_s" required>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-danger" data-bs-dismiss="modal">desistir</button>
+                        <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#confirmarEdicao">alterar cadastro</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <!-- modal: confirmação de edição de cadastro -->
+    <div class="modal fade" id="confirmarEdicao" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">cadastro</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p class="text-center fw-bold">yay \o/</p>
+                    <p class="text-center fw-bold">edição efetuada com sucesso!!! <i class="bi bi-emoji-smile"></i></p>
+                    <div class="d-grid gap-2">
+                        <button type="button" class="btn btn-outline-danger mb-3" data-bs-dismiss="modal">voltar a página</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- modal: exclusão de cadastro -->
+    <div class="modal fade" id="confirmarExclusaoConta" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">excluir conta</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>confirma a exclusão da conta com e-mail <strong> mariane@diamandis.uk? </strong> <i class="bi bi-emoji-frown"></i></p>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-primary" data-bs-dismiss="modal">desistir</button>
+                        <button type="submit" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#confirmarExclusao" onclick="paginaInicial()">sim, confirmo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- modal: confirmação de exclusão de cadastro -->
+    <div class="modal fade" id="confirmarExclusao" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">excluir conta</h5>
+                </div>
+                <div class="modal-body" >
+                    <strong> conta excluída com sucesso </strong> <i class="bi bi-emoji-smile"></i></p>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- JS: Bootstrap 5 -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>

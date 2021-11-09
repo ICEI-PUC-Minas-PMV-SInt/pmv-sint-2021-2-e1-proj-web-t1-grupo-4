@@ -29,3 +29,10 @@ document.getElementById('text').addEventListener('click', () => {
         document.getElementById('pass').style.display = 'inline-block';
     }
 })
+
+// Redirecionar para a página inicial
+function paginaInicial() {
+    setTimeout(function(){
+        location.href = '../../index.html';
+     }, 4000);
+}
