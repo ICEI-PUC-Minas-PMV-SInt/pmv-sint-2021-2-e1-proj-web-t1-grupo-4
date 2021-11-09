@@ -21,7 +21,7 @@
 
     <title>Home | SISCAMOVEL</title>
 </head>
-<body>
+<body class="green-hive">
     <!-- header -->
     <section class="container-fluid">
         <header class="d-flex flex-wrap justify-content-center py-3 mb-4">
@@ -36,56 +36,55 @@
     </div>
     
     <section class="container-fluid">
-        <h1>Compare aqui.</h1>
-        <h1>Decida logo após.</h1>
-    </section>
-
-    <!-- sessão do campo de pesquisa -->
-    <section class="container-fluid">
-        <div class="row">
-            <!-- coluna de sessão do campo de pesquisa -->
-            <div class="col-6">
-                <input class="form-control" list="datalistOptions" id="exampleDataList" placeholder="Modelo 1">
-                <datalist id="datalistOptions">
-                    <option value="San Francisco">
-                    <option value="New York">
-                    <option value="Seattle">
-                    <option value="Los Angeles">
-                    <option value="Chicago">
-                </datalist>
-        
-                <h6>versus</h6>
-                
-                <input class="form-control" list="datalistOptions" id="exampleDataList" placeholder="Modelo 2">
-                <datalist id="datalistOptions">
-                    <option value="San Francisco">
-                    <option value="New York">
-                    <option value="Seattle">
-                    <option value="Los Angeles">
-                    <option value="Chicago">
-                </datalist>
-                
-                <div class="form-check form-switch">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Pesquisar apenas um modelo</label>
-                </div>
-        
-                <div class="col-auto">
-                    <button type="submit" class="btn btn-primary mb-3">Comparaê!</button>
+        <div class="row align-items-center">
+            <div class="col-lg-5 col-md-12 col-12">
+                <div class="hero-content">
+                    <h1>
+                        <p>Compare aqui.</p>
+                        <p>Decida logo após.</p>
+                    </h1>
+                    
+                    <div class="inner-content">
+                        <div class="siscamovel-search-wrap">
+                            <div class="siscamovel-search-form">
+                                <form action="#">
+                                    <!-- Single Field Item Start  -->
+                                    <div class="single-field-item keyword">
+                                        <label for="keyword">Modelo 1</label>
+                                        <input id="keyword" placeholder="renault marx" name="keyword" type="text">
+                                    </div>
+                                    <!-- Single Field Item End  -->
+                                    <!-- Single Field Item Start  -->
+                                    <div class="single-field-item location">
+                                        <label for="location">Modelo 2</label>
+                                        <input id="location" class="input-field input-field-location"
+                                        placeholder="toyota engels" name="location" type="text">
+                                    </div>
+                                    <!-- Single Field Item End  -->
+                                    <div class="btn-comparae">
+                                        <button class="btn" type="submit">Comparaê!</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
-            <!-- coluna de exibição de vídeo -->
-            <div class="col-6">
-                <div style="padding:56.25% 0 0 0;position:relative;">
-                    <iframe src="https://player.vimeo.com/video/290450151?h=27dadd6468&autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                <div class="col-6 col-lg-7 col-12">
+                    <div class="app-image">
+                        <div style="padding:56.25% 0 0 0;position:relative;">
+                            <iframe src="https://player.vimeo.com/video/290450151?h=27dadd6468&autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <script src="https://player.vimeo.com/api/player.js"></script>
+                    </div>
                 </div>
-                <script src="https://player.vimeo.com/api/player.js"></script>
-            </div>
         </div>
-    </section>
 
-    <br>
+    </div>
+
+    <br><br>
+
 
     <footer class="footer mt-auto py-3 bg-light">
         <div class="container-fluid">
@@ -120,7 +119,7 @@
                         </div>
                         <div class="or-seperator"><strong>ou</strong></div>
                         <div class="form-group d-grid gap-2">
-                            <a href="#" class="btn btn-outline-danger"><i class="bi bi-google"></i> faça log in com o google</a>
+                            <a href="https://accounts.google.com" class="btn btn-outline-danger" target="_blank"><i class="bi bi-google"></i> faça log in com o google</a>
                         </div>
                         <div class="text-center mt-4">
                             <span>nova(o) por aqui?</span> <a href="#" data-bs-toggle="modal" data-bs-target="#criarConta">crie uma conta!</a>
@@ -202,7 +201,7 @@
                     <p class="text-center fw-bold">yay \o/</p>
                     <p class="text-center fw-bold">cadastro efetuado com sucesso!!! <i class="bi bi-emoji-smile"></i></p>
                     <div class="d-grid gap-2">
-                        <button type="submit" class="btn btn-outline-danger mb-3">ver dados da conta</button>
+                        <a href="./savages/user/conta.html" type="submit" class="btn btn-outline-danger mb-3">ver dados da conta</a>
                     </div>
                 </div>
             </div>
@@ -220,7 +219,7 @@
                 <div class="modal-body">
                     <p>um e-mail de recuperação de senha foi enviado para <strong>dan@marx.de</strong> <i class="bi bi-emoji-smile"></i></p>
                     <div class="d-grid gap-2">
-                        <button type="submit" class="btn btn-outline-danger mb-3">ver dados da conta</button>
+                        <a href="./savages/user/conta.html" type="submit" class="btn btn-outline-danger mb-3">ver dados da conta</a>
                     </div>
                 </div>
             </div>
