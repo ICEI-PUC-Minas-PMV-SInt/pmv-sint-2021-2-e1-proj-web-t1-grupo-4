@@ -141,11 +141,11 @@
             <div class="modal-body">
                 <form action="" method="post">
                     <div class="mb-3">
-                        <label for="exampleFormControlInput1" class="form-label">para prosseguir, digite seu e-mail:</label>
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                        <label for="recuperarConta" class="form-label">para prosseguir, digite seu e-mail:</label>
+                        <input type="email" class="form-control" id="recuperarConta" placeholder="karl@marx.de">
                       </div>
                       <div class="d-grid gap-2">
-                        <button type="button" class="btn btn-outline-primary mb-3" data-bs-toggle="modal" data-bs-target="#confirmarRecuperacaoSenha">recuperar senha</button>
+                        <button type="button" class="btn btn-outline-primary mb-3" data-bs-toggle="modal" data-bs-target="#confirmarRecuperacaoSenha" onclick="mockRecuperarConta()">recuperar senha</button>
                       </div>
                 </form>
             </div>
@@ -217,9 +217,9 @@
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <p>um e-mail de recuperação de senha foi enviado para <strong>dan@marx.de</strong> <i class="bi bi-emoji-smile"></i></p>
+                    <p>um e-mail de recuperação de senha foi enviado para <strong id="valorMockRecuperarConta">  </strong> <i class="bi bi-emoji-smile"></i></p>
                     <div class="d-grid gap-2">
-                        <a href="./savages/user/conta.html" type="submit" class="btn btn-outline-danger mb-3">ver dados da conta</a>
+                        <button type="button" class="btn btn-outline-danger mb-3" data-bs-dismiss="modal">uhulll, obrigado!</button>
                     </div>
                 </div>
             </div>
