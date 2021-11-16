@@ -1,6 +1,7 @@
 // SISCAMOVEL.js
-// Mock: recuperar senha
+// Freeze Period (20211116)
 
+// Mock: recuperar senha
 let MOCK_RECUPERAR_CONTA = "";
 
 function mockRecuperarConta() {

@@ -1,7 +1,7 @@
 /*
 // SISCAMOVEL
 // Script de cadastro, leitura, edição e exclusão de admins
-// 20211114
+// Freeze Period (20211116)
 */
 
 const KEY_BD = '@gerenciaradmin'

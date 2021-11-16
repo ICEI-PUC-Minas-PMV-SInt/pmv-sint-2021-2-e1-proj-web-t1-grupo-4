@@ -1,7 +1,7 @@
 /*
 // SISCAMOVEL
 // Script de cadastro, leitura, edição e exclusão de veículos
-// 20211109
+// Freeze Period (20211116)
 */
 
 const KEY_BD = '@gerenciarveiculos'
