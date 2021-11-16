@@ -38,7 +38,7 @@ function desenhar(){
         if(FILTRO.trim()){
             const expReg = eval(`/${FILTRO.trim().replace(/[^\d\w]+/g,'.*')}/i`)
             data = data.filter( admin => {
-                expReg.test( admin.nomeAdmin ) || expReg.test( admin.emailAdmin ) || expReg.test( admin.senhaAdmin )
+                return expReg.test( admin.nomeAdmin ) || expReg.test( admin.emailAdmin ) || expReg.test( admin.senhaAdmin )
             } )
         }
         data = data
@@ -99,9 +99,9 @@ function pesquisar(value){
 window.addEventListener('load', () => {
     lerBD()
     document.getElementById('cadastroAdmin').addEventListener('submit', submeter)
-    /*document.getElementById('inputPesquisa').addEventListener('keyup', e => {
+    document.getElementById('inputPesquisa').addEventListener('keyup', e => {
         pesquisar(e.target.value)
-    })*/
+    })
 
 })
 

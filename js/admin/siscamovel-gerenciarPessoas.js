@@ -38,7 +38,7 @@ function desenhar(){
         if(FILTRO.trim()){
             const expReg = eval(`/${FILTRO.trim().replace(/[^\d\w]+/g,'.*')}/i`)
             data = data.filter( pessoa => {
-                expReg.test( pessoa.nomePessoa ) || expReg.test( pessoa.emailPessoa ) || expReg.test( pessoa.senhaPessoa )
+                return expReg.test( pessoa.nomePessoa ) || expReg.test( pessoa.emailPessoa ) || expReg.test( pessoa.senhaPessoa )
             } )
         }
         data = data
@@ -99,9 +99,9 @@ function pesquisar(value){
 window.addEventListener('load', () => {
     lerBD()
     document.getElementById('cadastroPessoas').addEventListener('submit', submeter)
-    /*document.getElementById('inputPesquisa').addEventListener('keyup', e => {
+    document.getElementById('inputPesquisa').addEventListener('keyup', e => {
         pesquisar(e.target.value)
-    })*/
+    })
 
 })
 

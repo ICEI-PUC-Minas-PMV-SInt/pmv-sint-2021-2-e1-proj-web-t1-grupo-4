@@ -108,7 +108,6 @@ function visualizar(pagina, novo=false, id=null){
                 document.getElementById('recargaCompletaVeiculo').value = usuario.recargaCompletaVeiculo
             }
         }
-        //document.getElementById('nome').focus()
     }
 }
 
@@ -120,9 +119,9 @@ function pesquisar(value){
 window.addEventListener('load', () => {
     lerBD()
     document.getElementById('cadastroRegistro').addEventListener('submit', submeter)
-    /*document.getElementById('inputPesquisa').addEventListener('keyup', e => {
+    document.getElementById('inputPesquisa').addEventListener('keyup', e => {
         pesquisar(e.target.value)
-    })*/
+    })
 
 })
 
