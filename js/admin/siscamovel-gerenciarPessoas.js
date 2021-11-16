@@ -52,7 +52,7 @@ function desenhar(){
                         <td>${pessoa.emailPessoa}</td>
                         <td>${pessoa.senhaPessoa}</td>
                         <td>
-                        <button type="button" class="btn btn-link link-primary" data-bs-toggle="modal" data-bs-target="#gerenciarpessoa" data-bs-placement="right" title="Editar" onclick='visualizar("cadastro",false,${pessoa.peopleID})'>
+                        <button type="button" class="btn btn-link link-primary" data-bs-toggle="modal" data-bs-target="#gerenciarPessoas" data-bs-placement="right" title="Editar" onclick='visualizar("cadastro",false,${pessoa.peopleID})'>
                         <i class="bi bi-pencil"></i>
                         </button>
                       <button type="button" class="btn btn-link link-danger" data-bs-placement="right" title="Excluir" onclick='perguntarExclusao(${pessoa.peopleID})'>
