@@ -10,7 +10,7 @@ function mockRecuperarConta() {
 
 
 //Mostra / oculta a senha digitada
-let tipo = document.getElementById('senha');
+let tipo = document.getElementById('senhaPessoa');
 
 document.getElementById('pass').addEventListener('click', () => {
     if(tipo.value){
@@ -30,9 +30,17 @@ document.getElementById('text').addEventListener('click', () => {
     }
 })
 
-// Redirecionar para a página inicial
+// Redirecionamentos: 
+// Página inicial
 function paginaInicial() {
     setTimeout(function(){
         location.href = '../../index.html';
      }, 4000);
+}
+
+// conta de persona
+function contaPessoa() {
+    setTimeout(function(){
+        location.href = './savages/user/conta.html';
+     }, 2000);
 }

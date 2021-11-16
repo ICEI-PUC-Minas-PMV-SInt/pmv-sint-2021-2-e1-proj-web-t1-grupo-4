@@ -104,12 +104,12 @@
                 <div class="modal-body">
                     <form action="" method="post">
                         <div class="form-group mb-3">
-                            <label for="exampleFormControlInput1" class="form-label">e-mail</label>
-                            <input type="text" class="form-control" placeholder="karl@marx.de" required="required">
+                            <label for="emailPessoa" class="form-label">e-mail</label>
+                            <input type="text" class="form-control" placeholder="karl@marx.de" id="emailPessoa" value="mariane@diamandis.uk" required>
                         </div>
                         <div class="form-group mb-3">
-                            <label for="senha" class="form-label">senha</label>
-                            <input type="password" class="form-control" placeholder="digite sua senha" id="senha" required>
+                            <label for="senhaPessoa" class="form-label">senha</label>
+                            <input type="password" class="form-control" placeholder="digite sua senha" id="senhaPessoa" value="Mar1naSav@g\-_s" required>
                             <i class="bi bi-eye" id="text"></i>
                             <i class="bi bi-eye-slash" id="pass"></i>
                         </div>
@@ -117,7 +117,7 @@
                             <a href="#" data-bs-toggle="modal" data-bs-target="#recuperarSenha">esqueceu a senha?</a>
                         </div>
                         <div class="form-group mb-3">
-                            <input type="submit" class="btn btn-outline-primary btn-block col-12 mx-auto" value="log in">
+                            <button type="button" class="btn btn-outline-primary btn-block col-12 mx-auto" onclick="contaPessoa()">log in</button>
                         </div>
                         <div class="or-seperator"><strong>ou</strong></div>
                         <div class="form-group d-grid gap-2">
