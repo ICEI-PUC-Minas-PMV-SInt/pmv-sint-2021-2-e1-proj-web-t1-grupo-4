@@ -6,9 +6,7 @@
 |--|--|
 |Requisitos Associados| RF-001 - O sistema deve permitir cadastrar, alterar e excluir informações sobre veículos elétricos|
 |Objetivo do Teste| Verificar se os veículos foram cadastrados com sucesso, verificar se é possível alterar e excluir dados.
-|Sequência| • Acessar a página com o navegador 
-• Efetuar o login como usuário 
-• Cadastrar dados dos veículos
+|Sequência| • Acessar a página com o navegador<br> • Efetuar o login como usuário<br> • Cadastrar dados dos veículos
 |Critérios de Êxito| Todos os dados foram cadastrados com sucesso.
 
 |Caso de Teste| CT 02 – Cadastrar, alterar e excluir dados de veículos  |
