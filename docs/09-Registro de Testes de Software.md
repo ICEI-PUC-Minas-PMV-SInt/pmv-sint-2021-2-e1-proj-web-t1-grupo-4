@@ -9,4 +9,4 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
 > **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+> - [Link do Registro de Testes de Software](https://docs.google.com/document/d/1xJTAqssH9H1sviY1tNABtkel3d0OXwOWqhvB0Sr7n6M/edit?usp=sharing)
