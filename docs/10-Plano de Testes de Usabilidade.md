@@ -5,7 +5,7 @@
 Planejamento de realização de testes com usuários definindo as operações que os usuários devem realizar.
 
 Busca e Comparação de Automóveis
-1.  Pagina Inicial da Aplicação
+1. Pagina Inicial da Aplicação
 1.2 Preenchimento do campo de busca
 1.3 Resultado da Pesquisa
 
