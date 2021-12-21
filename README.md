@@ -42,8 +42,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-* <a href="src/README.md"> Código Fonte</a>
+* <a href="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2021-2-e1-proj-web-t1-grupo-4/archive/refs/heads/main.zip"> Código Fonte</a>
 
 # Apresentação
 
-* <a href="presentation/README.md"> Apresentação da solução</a>
+* <a href="https://drive.google.com/file/d/1RfFe0Q_ntRNPdaZJYYwVjSPbA4sUGAf-/view?usp=sharing"> Apresentação da solução</a>
