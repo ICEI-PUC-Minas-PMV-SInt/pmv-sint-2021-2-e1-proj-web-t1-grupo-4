@@ -5,4 +5,4 @@
 Relatório com evidências dos testes e relatos dos usuários participantes, baseado em um plano de testes pré-definido.
 
 > **Links Úteis**:
-> - [Ferramentas deTestes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+> - [Registro de Testes de Usabilidade (PDF)](https://drive.google.com/file/d/1Rwn8j3PYH-8mDcgufQb6ctY4Admmhz2L/view?usp=sharing)
